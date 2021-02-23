@@ -3,6 +3,10 @@ Course project to analyze UMD Alumni Events to improve future events
 University of Maryland Alumni Association
 Longitudinal Impact Report
 
+First analysis involved creating a SQL database to store the data and create a Tableau Dashboard to provide insights.
+
+A separate analysis was performed in Python on raw data to provide recommendations to improve metrics of interest
+
 Background Information:
 At the University of Maryland Alumni Association we are the heart of the university, inspiring lifelong connections with a global network of Maryland alumni. In an effort to achieve this vision, we connect, cultivate and channel the power of alumni to enrich themselves and advance the university through membership, event engagement, and volunteerism. We have the unique opportunity to assist Terps in staying connected with each other and the university long after their time spent in College Park.
 
